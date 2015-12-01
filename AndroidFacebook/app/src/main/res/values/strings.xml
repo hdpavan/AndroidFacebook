@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidFacebook</string>
+    <string name="facebook_app_id">Your_App_ID</string>
+</resources>
